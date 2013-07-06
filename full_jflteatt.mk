@@ -33,9 +33,3 @@ PRODUCT_DEVICE := jflteatt
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := SGH-I337
-
-PRODUCT_PACKAGES += \
-    loki_patch \
-    loki_flash \
-    loki.sh \
-    valid_bootloaders
